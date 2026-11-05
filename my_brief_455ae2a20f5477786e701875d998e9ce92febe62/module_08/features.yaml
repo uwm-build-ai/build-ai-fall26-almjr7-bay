@@ -1,0 +1,24 @@
+- so_that: >-
+    Wendy posts a repair request in under a minute, instead of drafting emails
+    or searching listings.
+  as_a: Busy homeowner who juggles work and family.
+  headline: Low on time?
+  i_want: 🤖 Auto‑fill job wizard that pulls details from her home‑maintenance log.
+  business_value: 90
+  value_why: Cuts request time dramatically, core value for time‑pressed homeowners.
+- so_that: >-
+    Wendy receives three vetted handyman options instantly, instead of waiting
+    days for quotes.
+  as_a: Busy homeowner who juggles work and family.
+  headline: AI Helps around the house!
+  i_want: 🤖 AI matches the task to local handymen by skill, availability, and rating.
+  business_value: 85
+  value_why: Instant vetted options, speeds hiring, boosts satisfaction and repeat use.
+- so_that: >-
+    Wendy selects a handyman and confirms the appointment with a single tap,
+    instead of lengthy phone calls.
+  as_a: Busy homeowner who juggles work and family.
+  headline: Getting help is, easy!
+  i_want: 👤 Simple acceptance screen where Wendy chooses and schedules the service.
+  business_value: 95
+  value_why: One‑tap scheduling eliminates calls, accelerates job start, drives revenue.
